@@ -1,0 +1,3 @@
+C:\Users\Maélie\Documents\Image_Encryption\imageEncryption\bin\Release\imageEncryption.exe  C:\Users\Maélie\Documents\Image_Encryption\imageEncryption\images\barbara100\image1.bmp
+2
+C:\Users\Maélie\Documents\Image_Encryption\imageEncryption\images\barbara100\image1.bmp
