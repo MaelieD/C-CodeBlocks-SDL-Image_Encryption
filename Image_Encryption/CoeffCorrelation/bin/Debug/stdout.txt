@@ -1,0 +1,7 @@
+Calcul du Coefficient de Correlation
+-0.001176
+Calcul NPCR
+D = 195851.000000, N = 196608.000000, NPCR = 99.614970
+Calcul UACI
+N = 196608.000000, UACI = 33.494380
+Exited cleanly

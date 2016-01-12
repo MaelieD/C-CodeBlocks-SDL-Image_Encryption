@@ -1,0 +1,1 @@
+Le fichier key.txt est plein. On peut le lire pour remplir K.
